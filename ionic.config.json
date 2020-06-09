@@ -1,0 +1,7 @@
+{
+  "name": "gitabo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
